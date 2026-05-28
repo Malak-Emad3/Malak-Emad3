@@ -1,4 +1,4 @@
- # Hi there, I'm Malakeh Emad! 👋
+ # Hi there, I'm Malak Emad! 👋
 
 ### 🎓 Computer Science Student & Tech Enthusiast
 
